@@ -19,3 +19,7 @@ This AI-powered chatbot helps users learn a new language through interactive con
    ```sh
    git clone https://github.com/abhisheik912/Language-Learning-Chatbot.git
    cd Language-Learning-Chatbot
+**##Future Enhancements**
+   1.Voice-based interactions
+   2.Integration with spaced repetition learning
+   3.Support for additional AI models
